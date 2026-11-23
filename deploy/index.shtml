@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Adithi Vardhan Deployment Page</title>
+</head>
+
+<body>
+  <h1>Sample Page for Deployment on Render</h1>
+
+  <ul>
+    <li>
+      <strong>Name:</strong> Adithi Vardhan
+    </li>
+
+    <li>
+      <strong>GitHub Location:</strong>
+      <a href="https://github.com/adivar261/avardhanTERP">
+        https://github.com/adivar261/avardhanTERP
+      </a>
+    </li>
+
+    <li>
+      <strong>Render Location:</strong>
+      <a href="https://avardhanterp.onrender.com">
+        https://avardhanterp.onrender.com/
+      </a>
+    </li>
+
+    <li>
+      <strong>Clearing Database Movies:</strong>
+      <a href="https://avardhanterp.onrender.com/clearCollection">
+        https://avardhanterp.onrender.com/clearCollection
+      </a>
+    </li>
+
+    <li>
+      <strong>Inserting Movies:</strong>
+      <a href="https://avardhanterp.onrender.com/insertMovies">
+        https://avardhanterp.onrender.com/insertMovies
+      </a>
+    </li>
+
+    <li>
+      <strong>List Movies:</strong>
+      <a href="https://avardhanterp.onrender.com/listMovies">
+        https://avardhanterp.onrender.com/listMovies
+      </a>
+    </li>
+  </ul>
+</body>
+</html>
